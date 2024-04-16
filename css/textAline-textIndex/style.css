@@ -1,0 +1,34 @@
+/* font-weight 
+font-style
+text-aline
+text-indent
+*/
+body{
+    font-weight: bold;
+}
+.heading{
+font-weight: bold;
+font-style: italic;
+text-align: center;
+}
+.one{
+    font-weight: 800;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 50px;
+
+}
+.main{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    text-align: center;
+}
+.two{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: justify;
+}
+.three{
+    font-style:normal;
+    font-weight: lighter;
+}

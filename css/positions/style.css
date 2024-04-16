@@ -1,0 +1,23 @@
+/* position:Absolute */
+/* position:relative */
+div{
+    border: 5px solid red;
+    margin: 40px;
+    background-color: yellow;
+    position: static;
+}
+.one{
+    background-color: green;
+    color: white;
+    position: relative;
+    top: 20px;
+}
+.two{
+    background-color: blue;
+    color: white;
+    text-align: right;
+}
+.three{
+    background-color: lightcoral;
+
+}

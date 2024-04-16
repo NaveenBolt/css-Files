@@ -1,0 +1,30 @@
+/* line height
+letter spacing
+word spacing
+text Transfer
+text direction */
+
+.main{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.one{
+    line-height: 2em;
+    text-transform: uppercase;
+}
+.sub{
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
+.two{
+    word-spacing: 1em;
+    text-transform: lowercase;
+}
+.three{
+    letter-spacing: 1em;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: underline;
+}

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+   height: 100vh;
+    font-size: 40px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+  
+}
+.big{
+    background: url("./images/couples.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    
+}
+.big2{
+    background: url("./images/couples1.jpg");
+    /* background-repeat: round; */
+    /* background-size:cover ; */
+    /* background-position: right; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top ;
+    background-attachment:fixed ;
+}
+.big3{
+    background: url("./images/couple3.jpg");
+    /* background-repeat: round; */
+    /* color: red; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top ;
+   
+}

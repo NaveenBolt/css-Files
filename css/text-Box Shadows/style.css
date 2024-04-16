@@ -1,0 +1,13 @@
+.box{
+    color: red ;
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    box-shadow: 6px 6px 2px green;
+}
+h1{
+    color: red;
+    font-size: 100px;
+    text-shadow: 2px 5px 1px blue;
+
+}

@@ -1,0 +1,16 @@
+/* div and span */
+/* we seen in this two consepts the DIV tag will be work like a container 
+and the div will start the new line  And we see the span tag this tag will works like a one specil tag this tag will 
+not contain to stat a new line*/
+
+.div_red{
+    color: red;
+    background-color: lightcyan;
+}
+span{
+    color: black;
+}
+.div_green{
+    color: rgb(47, 0, 255);
+    background-color: aqua;
+}

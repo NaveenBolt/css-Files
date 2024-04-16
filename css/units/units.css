@@ -1,0 +1,60 @@
+/* When we using the pixils the data shown the same in any Screen
+h1{
+    color: red;
+    width:200px;
+    height: 100px;
+    background-color: blue;
+
+} */
+
+
+/* persentages :- when we using this units in inner class and inner blocks  then it cant be have a deaflt sixe it was depeded on perent class*/
+/* 
+.Outer{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+.inner{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+} */
+
+/* em - RELATIVE Depends on parent
+1em = 16px defalt browser style
+1em = base value */
+/* .raletive{
+font-size: 3em;
+}
+.obselute{
+font-size: 32px;
+} */
+
+/* rem - RELATIVE Depends on root
+1rem = 16px defalt browser style */
+
+
+
+/* vw - it was depends upon the screen width 
+   vh - it was depends upon the screen height*/
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    width: 50vw;
+    height: 50vh;
+    background-color: orange;
+
+}
+
+.header{
+    width: 100vw;
+    height: 100vh;
+    background-color: green;
+}
+
+/* min-width min-height max-height max-width 
+then its also a one of the units in css */

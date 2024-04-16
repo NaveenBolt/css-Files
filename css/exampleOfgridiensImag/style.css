@@ -1,0 +1,25 @@
+div{
+    min-height: 100vh;
+    color: red;
+    font-size: 70px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.one{
+    background: url("../backgrounds/images/couples1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.two{
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.3)),url("../backgrounds/images/couples1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

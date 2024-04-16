@@ -1,0 +1,12 @@
+:root{
+    --primary: green;
+    --secondary:red;
+    --three:blue;
+
+}
+.heading{
+    color: var(--primary);
+}
+p{
+    color: var(--secondary);
+}

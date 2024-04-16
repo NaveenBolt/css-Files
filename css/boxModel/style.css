@@ -1,0 +1,64 @@
+/*  CSS box models
+    padding
+    boder
+    margin */
+
+/* .main{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    text-transform: capitalize;
+
+} */
+/* .one{
+    background-color: orangered;
+    color: white;
+    text-align: justify;
+    /* padding all sides */
+    /* padding: 20px; */
+    /* padding: 50px 30px; */
+    /* padding is left+right and top+bottom  } */ 
+
+/* boder */
+
+h1{
+    background-color: greenyellow;
+    text-align: center;
+    padding: 30px;
+    text-transform: capitalize;
+    border: 7px solid red;
+    border-radius: 80px;
+    margin: 30px;
+}
+
+.one{
+    background-color: violet;
+    padding: 40px;
+    color: white;
+    border: 10px lightcoral solid;
+    border-radius: 80px;
+    margin: 20px 30px  20px;
+    text-align: justify;
+}
+    /* margin */
+    
+    /* *{
+        margin: 0;
+    }
+    .main{
+    padding : 20px;
+    background-color: purple;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    }
+    .one{
+        background-color: orangered;
+        color: white;
+        margin: 30px;
+        padding: 20px;
+
+    } */

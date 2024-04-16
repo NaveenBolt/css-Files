@@ -1,0 +1,15 @@
+#first{
+    /* when the color are more then we use in css in this case we use the colors in text and background color */
+    color: royalblue;
+    background-color: aqua;
+}
+#second{
+    color: red;
+    background: bisque;
+}
+/* how to pic the color in css */
+/* Total 140 colors names in CSS */
+body{
+    color: black;
+    background-color: yellowgreen;
+}

@@ -1,0 +1,38 @@
+/* transform : translate(), rotate(), scale(), skew() */
+
+/* translete() */
+body{
+    margin: 50px;
+}
+div{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 50px;
+
+}
+.one{
+    background-color: red;
+    /* transform: translatex(-20px); */
+    /* transform: scalex(0.5); */
+    /* transform: rotatez(45deg); */
+    transform: skewX(45deg);
+}
+.two{
+    background-color: blue;
+    /* transform: translate(30px, 50px); */
+    /* transform: scaleY(2); */
+    /* transform: rotateX(45deg); */
+    transform:skewY(70deg);
+
+
+
+}
+.three{
+    background-color: green;
+    /* transform: translateY(-30px); */
+    /* transform: scale(1.5, 2); */
+    /* transform: rotateY(45deg); */
+    transform: skew(30deg);
+
+}

@@ -1,0 +1,23 @@
+.one{
+    margin: 2rem;
+    text-decoration: none;
+    background-color: grey;
+    padding: 1rem;
+    border: 1rem solid white;
+    outline: 1rem red solid;
+    margin: 5rem;
+}
+.button{
+    margin: 10rem;
+}
+
+.two{
+    margin: 2rem;
+    text-decoration: none;
+    background-color: grey;
+    padding: 1rem;
+    /* border: 1rem solid white; */
+    outline-offset: 2rem rgb(15, 139, 15);
+    outline: 1rem red solid;
+    margin-top: 5rem;
+}

@@ -1,0 +1,13 @@
+/* We see the concpet of inheritance when there the parent properties will be come in to auto matically in the chaild but child properties can not be applicable to parents */
+
+body{
+    color: blue;
+    font-family: monospace;
+    line-height: 0.5cm;
+}
+
+.div_red{
+    color: red;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium';
+}

@@ -1,0 +1,36 @@
+/* transition change over */
+/* transition property*/
+/* transition duriation*/
+div{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+div:hover{
+background-color: black;
+}
+.one{
+    background-color: orange;
+    transition-property: background, border-radius;
+    transition-duration: 4s;
+}
+.one:hover{
+    border-radius: 30%;
+}
+.two{
+    background-color: blue;
+    transition-property: background, border-radius;
+    transition-duration: 6s, 5s;
+}
+.two:hover{
+    border-radius:100%;
+}
+.three{
+    background-color: green;
+    transition-property: background, border-radius;
+    transition-duration: 4s;
+}
+.three:hover{
+    border-radius: 50%;
+}

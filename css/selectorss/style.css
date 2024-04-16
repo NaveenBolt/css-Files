@@ -1,0 +1,53 @@
+
+/* inline proiority is the more proiority in the compare to the other css -->
+    <!-- proioritys  
+            inlineCSS -> internalCSS -> ExternalCSS  */
+
+/* types of selectors
+Element Selectors
+group selectors
+id selectors
+*/
+
+/* Element Selectors */
+/* h1{
+    color: green;
+    font-size: 60px;
+}
+h2{
+    color: blueviolet;
+    font-size: 30px;
+}
+p{
+    color: lightgray;
+} */
+
+/* group selectors */
+
+/* body{
+    color: purple;
+}
+h1,h2{
+    color: red;
+} */
+
+/* id selectors */
+
+/* #heading{
+    color: brown;
+
+}
+#footar_Heading{
+    color: green;
+}
+#pera{
+    color: violet;
+} */
+
+/* class selectors */
+/* .red{
+    color: red;
+}
+.love{
+    color: pink;
+} */

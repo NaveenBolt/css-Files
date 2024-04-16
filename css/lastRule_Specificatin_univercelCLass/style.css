@@ -1,0 +1,23 @@
+/* last Rule , Specification, special Class */
+
+/* when we see the selecter same name like   */
+h1{
+    color: blue;
+}
+h1{
+    color: red;
+}
+/* the letest one will be worked */ 
+/* the output will print the red colour */
+/* Specification */
+.h1{
+    color: green;
+}
+#h1{
+    color: gold;
+}
+
+/* Special class */
+*{
+    color: yellowgreen;
+}

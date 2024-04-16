@@ -1,0 +1,13 @@
+img{
+    width: 200px;
+    float: right;
+}
+p{
+    clear: right;
+}
+
+.banner{
+    border: 5px solid green;
+    padding: 30px;
+    width: 300px;
+}

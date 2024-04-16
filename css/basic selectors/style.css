@@ -1,0 +1,21 @@
+/* *{
+    color: aquamarine;
+    background-color: lightcoral;
+}
+#heading{
+    color: blueviolet;
+}
+.heading{
+    color: red;
+}
+p{
+    color: chartreuse;
+} */
+
+p::first-line{
+    font-weight: bold;
+    color: rebeccapurple;
+}
+p::first-letter{
+    font-size: 2rem;
+}
